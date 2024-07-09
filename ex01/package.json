@@ -1,0 +1,15 @@
+{
+  "name": "ex01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app01"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "demon": "^0.0.1"
+  }
+}
